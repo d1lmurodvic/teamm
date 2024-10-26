@@ -5,11 +5,6 @@ import Sidebar from '../components/Sidebar'
 const Analytics = () => {
   return (
     <div>
-
-      <div>
-        <p></p>
-      </div>
-
       <Navbar/>
       <Sidebar/>
     </div>
